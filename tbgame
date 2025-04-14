@@ -149,6 +149,122 @@
       "id": "30",
       "word": "Çanta",
       "forbidden_words": ["Taşımak", "Eşya", "Koyma", "Deri", "Sırt"]
+    },
+    {
+      "word": "PASTA",
+      "forbidden_words": ["DOĞUM GÜNÜ", "TATLI", "KREMA", "DİLİM", "ÇİKOLATA"]
+    },
+    {
+      "word": "UYKU",
+      "forbidden_words": ["YATMAK", "GECE", "RÜYA", "YATAK", "YORGUN"]
+    },
+    {
+      "word": "YAĞMUR",
+      "forbidden_words": ["SU", "BULUT", "ŞEMSİYE", "DAMLA", "HAVA DURUMU"]
+    },
+    {
+      "word": "İNTERNET",
+      "forbidden_words": ["BAĞLANTI", "AĞ", "WEB", "SİTE", "ÇEVRİMİÇİ"]
+    },
+    {
+      "word": "ANKARA",
+      "forbidden_words": ["BAŞKENT", "TÜRKİYE", "ŞEHİR", "ANITKABİR", "KIZILAY"]
+    },
+    {
+      "word": "PLAJ",
+      "forbidden_words": ["DENİZ", "KUM", "GÜNEŞ", "TATİL", "YÜZMEK"]
+    },
+    {
+      "word": "GÜZEL",
+      "forbidden_words": ["ÇİRKİN", "YAKIŞIKLI", "ESTETİK", "HOŞ", "GÖRÜNÜM"]
+    },
+    {
+      "word": "DANS",
+      "forbidden_words": ["MÜZİK", "HAREKET", "RİTİM", "EĞLENCE", "FİGÜR"]
+    },
+    {
+      "word": "OYUNCAK",
+      "forbidden_words": ["ÇOCUK", "OYNAMAK", "BEBEK", "ARABA", "HEDİYE"]
+    },
+    {
+      "word": "SAAT",
+      "forbidden_words": ["ZAMAN", "AKREP", "YELKOVAN", "BİLEK", "ALARM"]
+    },
+    {
+      "word": "DUŞ",
+      "forbidden_words": ["BANYO", "SU", "SABUN", "TEMİZLİK", "SICAK"]
+    },
+    {
+      "word": "KALEM",
+      "forbidden_words": ["YAZMAK", "KURŞUN", "ÇİZMEK", "KAĞIT", "DEFTER"]
+    },
+    {
+      "word": "KARPUZ",
+      "forbidden_words": ["MEYVE", "YAZ", "ÇEKİRDEK", "YEŞİL", "KIRMIZI"]
+    },
+    {
+      "word": "TERZİ",
+      "forbidden_words": ["DİKİŞ", "KUMAŞ", "ÖLÇÜ", "İĞNE", "ELBİSE"]
+    },
+    {
+      "word": "KÖPRÜ",
+      "forbidden_words": ["YOL", "GEÇMEK", "SU", "BAĞLANTI", "ARAÇ"]
+    },
+    {
+      "word": "TREN",
+      "forbidden_words": ["RAY", "VAGON", "İSTASYON", "BİLET", "YOLCULUK"]
+    },
+    {
+      "word": "BAHAR",
+      "forbidden_words": ["MEVSİM", "ÇİÇEK", "GÜNEŞ", "ILIMAN", "YEŞİL"]
+    },
+    {
+      "word": "DÜĞÜN",
+      "forbidden_words": ["GELİN", "DAMAT", "EVLİLİK", "NİKAH", "TÖREN"]
+    },
+    {
+      "word": "GÖZLÜK",
+      "forbidden_words": ["GÖRMEK", "CAM", "ÇERÇEVE", "GÖZ", "NUMARALI"]
+    },
+    {
+      "word": "HASTANE",
+      "forbidden_words": ["DOKTOR", "HASTA", "TEDAVİ", "İLAÇ", "SAĞLIK"]
+    },
+    {
+      "word": "BİSİKLET",
+      "forbidden_words": ["PEDAL", "TEKERLEK", "ZİNCİR", "SÜRMEK", "SPOR"]
+    },
+    {
+      "word": "ATEŞ",
+      "forbidden_words": ["YANMAK", "SICAK", "ALEV", "DUMAN", "YAKMAK"]
+    },
+    {
+      "word": "BAYRAM",
+      "forbidden_words": ["TATİL", "ŞEKER", "ZİYARET", "KUTLAMA", "HEDİYE"]
+    },
+    {
+      "word": "KÜTÜPHANE",
+      "forbidden_words": ["KİTAP", "OKUMAK", "RAF", "SESSİZ", "ÖDÜNÇ"]
+    },
+    {
+      "word": "ÇİFTÇİ",
+      "forbidden_words": ["TARLA", "EKİM", "ÜRÜN", "TRAKTÖR", "TOPRAK"]
+    },
+    {
+      "word": "DEDEKTİF",
+      "forbidden_words": ["POLİS", "ARAŞTIRMA", "İPUCU", "SUÇ", "GİZLİ"]
+    },
+    {
+      "word": "HEYKELTIRAŞ",
+      "forbidden_words": ["SANAT", "HEYKEL", "YONTMAK", "MERMER", "ESER"]
+    },
+    {
+      "word": "OTEL",
+      "forbidden_words": ["KONAKLAMA", "ODA", "TATİL", "RESEPSİYON", "MİSAFİR"]
+    },
+    {
+      "word": "YILDIZ",
+      "forbidden_words": ["GÖKYÜZÜ", "GECE", "PARLAK", "AY", "IŞIK"]
     }
   ]
 }
