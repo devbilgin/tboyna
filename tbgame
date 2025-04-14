@@ -1,0 +1,154 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "word": "Futbol",
+      "forbidden_words": ["Top", "Takım", "Oyuncu", "Kaleci", "Saha"]
+    },
+    {
+      "id": "2",
+      "word": "İstanbul",
+      "forbidden_words": ["Şehir", "Boğaz", "Köprü", "Türkiye", "Kalabalık"]
+    },
+    {
+      "id": "3",
+      "word": "Kitap",
+      "forbidden_words": ["Okumak", "Sayfa", "Yazar", "Kütüphane", "Roman"]
+    },
+    {
+      "id": "4",
+      "word": "Kahve",
+      "forbidden_words": ["İçecek", "Sıcak", "Fincan", "Kahvaltı", "Kafein"]
+    },
+    {
+      "id": "5",
+      "word": "Doktor",
+      "forbidden_words": ["Hastane", "Hasta", "Tedavi", "Muayene", "İlaç"]
+    },
+    {
+      "id": "6",
+      "word": "Telefon",
+      "forbidden_words": ["Konuşmak", "Aramak", "Cep", "Mesaj", "İnternet"]
+    },
+    {
+      "id": "7",
+      "word": "Deniz",
+      "forbidden_words": ["Su", "Dalga", "Sahil", "Tatil", "Kumsal"]
+    },
+    {
+      "id": "8",
+      "word": "Öğretmen",
+      "forbidden_words": ["Okul", "Öğrenci", "Ders", "Eğitim", "Sınıf"]
+    },
+    {
+      "id": "9",
+      "word": "Bilgisayar",
+      "forbidden_words": ["Klavye", "Fare", "Ekran", "İnternet", "Program"]
+    },
+    {
+      "id": "10",
+      "word": "Araba",
+      "forbidden_words": ["Tekerlek", "Sürücü", "Yol", "Motor", "Direksiyon"]
+    },
+    {
+      "id": "11",
+      "word": "Televizyon",
+      "forbidden_words": ["İzlemek", "Kanal", "Program", "Dizi", "Film"]
+    },
+    {
+      "id": "12",
+      "word": "Müzik",
+      "forbidden_words": ["Şarkı", "Dinlemek", "Ses", "Enstrüman", "Sanatçı"]
+    },
+    {
+      "id": "13",
+      "word": "Çikolata",
+      "forbidden_words": ["Tatlı", "Kakao", "Yemek", "Şeker", "Bitter"]
+    },
+    {
+      "id": "14",
+      "word": "Kedi",
+      "forbidden_words": ["Hayvan", "Miyav", "Köpek", "Evcil", "Kuyruk"]
+    },
+    {
+      "id": "15",
+      "word": "Yemek",
+      "forbidden_words": ["Pişirmek", "Yemek", "Mutfak", "Aç", "Tabak"]
+    },
+    {
+      "id": "16",
+      "word": "Banka",
+      "forbidden_words": ["Para", "Hesap", "Kredi", "Müşteri", "ATM"]
+    },
+    {
+      "id": "17",
+      "word": "Sinema",
+      "forbidden_words": ["Film", "İzlemek", "Bilet", "Perde", "Patlamış Mısır"]
+    },
+    {
+      "id": "18",
+      "word": "Arkadaş",
+      "forbidden_words": ["Dost", "Kişi", "Sohbet", "Tanışmak", "Güven"]
+    },
+    {
+      "id": "19",
+      "word": "Alışveriş",
+      "forbidden_words": ["Satın Almak", "Mağaza", "Para", "Ürün", "Market"]
+    },
+    {
+      "id": "20",
+      "word": "Güneş",
+      "forbidden_words": ["Sıcak", "Işık", "Yaz", "Gökyüzü", "Gündüz"]
+    },
+    {
+      "id": "21",
+      "word": "Ayna",
+      "forbidden_words": ["Yansıma", "Cam", "Görmek", "Bakmak", "Görüntü"]
+    },
+    {
+      "id": "22",
+      "word": "Dondurma",
+      "forbidden_words": ["Soğuk", "Tatlı", "Külah", "Yaz", "Çikolata"]
+    },
+    {
+      "id": "23",
+      "word": "Bulut",
+      "forbidden_words": ["Gökyüzü", "Yağmur", "Beyaz", "Hava", "Pamuk"]
+    },
+    {
+      "id": "24",
+      "word": "Bisiklet",
+      "forbidden_words": ["Tekerlek", "Sürmek", "Zincir", "Pedal", "Gidileri"]
+    },
+    {
+      "id": "25",
+      "word": "Meyve",
+      "forbidden_words": ["Elma", "Yemek", "Tatlı", "Vitamin", "Ağaç"]
+    },
+    {
+      "id": "26",
+      "word": "Gazete",
+      "forbidden_words": ["Haber", "Okumak", "Kağıt", "Basın", "Dergi"]
+    },
+    {
+      "id": "27",
+      "word": "Makas",
+      "forbidden_words": ["Kesmek", "Kumaş", "Kağıt", "Keskin", "Araç"]
+    },
+    {
+      "id": "28",
+      "word": "Şapka",
+      "forbidden_words": ["Baş", "Giymek", "Güneş", "Korumak", "Saç"]
+    },
+    {
+      "id": "29",
+      "word": "Pazar",
+      "forbidden_words": ["Alışveriş", "Sebze", "Meyve", "Tezgah", "Halk"]
+    },
+    {
+      "id": "30",
+      "word": "Çanta",
+      "forbidden_words": ["Taşımak", "Eşya", "Koyma", "Deri", "Sırt"]
+    }
+  ]
+}
